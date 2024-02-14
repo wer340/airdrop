@@ -1,5 +1,11 @@
 # airdrop
 
+# https://galxe.com
+# https://chainlist.org/chain/
+# https://sepoliafaucet.com
+# twitter
+# discord
+
 
 1. I’m going to show you how to use \
 @DefiLlama\
